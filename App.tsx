@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     color: '#000000',
   },
   lightText: {
-    color: '#ffffff',
+    color: '#000000',
   },
 });
 
