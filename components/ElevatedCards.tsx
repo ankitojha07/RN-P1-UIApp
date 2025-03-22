@@ -11,7 +11,7 @@ const ElevatedCards = () => {
             <Text>Card 1</Text>
           </View>
           <View style={[style.elevatedCardf, style.cards]}>
-            <Text>Card 1</Text>
+            <Text>Card 2</Text>
           </View>
           <View style={[style.elevatedCardf, style.cards]}>
             <Text>Card 1</Text>
