@@ -10,7 +10,7 @@ const ImageCard = () => {
       <ScrollView horizontal={true}>
         <View style={style.container}>
           {images.map((img, index) => (
-            <View style={style.imgCard}>
+            <View style={style.imgCard} key={index}>
               <Image key={index} source={img} style={style.img} />
               <Text>Image Text</Text>
             </View>
